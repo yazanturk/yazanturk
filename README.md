@@ -31,4 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yazanturk&show_icons=true&locale=en&layout=compact" alt="yazanturk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yazanturk&show_icons=true&locale=en" alt="yazanturk" /></p>
-
